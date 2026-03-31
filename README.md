@@ -13,6 +13,11 @@ The project combines:
 - a **descriptive analysis** of the dataset,
 - and an **econometric analysis** to identify the main determinants of player salaries.
 
+## 📄 Project Report
+A detailed report presenting the methodology, the econometric analysis, and the main results is available here.  
+Please note that the report is written in French:  
+[Access the project report](https://drive.google.com/drive/folders/1hnQzD2QXx2TSDsvB0RNcb_zHhqHPTttO)
+
 ## 📌 Project Objectives
 - 📊 Analyze salary disparities among professional football players
 - 📈 Identify the variables that significantly influence wages
