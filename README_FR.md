@@ -1,4 +1,3 @@
-```markdown
 # Analyse économétrique des salaires dans le football professionnel
 
 🇬🇧 [English version](README.md)
@@ -51,4 +50,4 @@ Cloner le dépôt :
 git clone https://github.com/Felixsabiron/Econometric-analysis-of-salaries-in-professional-football.git
 cd Econometric-analysis-of-salaries-in-professional-football
 ```
-```
+
